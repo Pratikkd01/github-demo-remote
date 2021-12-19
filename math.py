@@ -20,3 +20,4 @@ diff square(x):
     return x*x
     
 #added new line in local repositry
+#added branch bug123 on main repository and then checkout on bug123
