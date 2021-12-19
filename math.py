@@ -22,3 +22,4 @@ diff square(x):
 #added new line in local repositry
 #added branch bug123 on main repository and then checkout on bug123
 #added new branch bug456 and checkout to bug456
+#Implemented new line on last of feature1
